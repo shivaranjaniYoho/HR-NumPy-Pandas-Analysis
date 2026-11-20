@@ -42,3 +42,7 @@ python main.py
 ## Output
 
 The project generates cleaned employee data and four chart images.
+
+## Project Status
+
+Employee data analysis project completed.
